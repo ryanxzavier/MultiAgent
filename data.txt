@@ -1,0 +1,26 @@
+Apple: A round fruit with red, yellow, or green skin and a white inside
+Banana: A long curved fruit with yellow skin and soft white flesh
+Carrot: A long, orange vegetable that grows underground
+Dog: A domesticated mammal and a common household pet
+Elephant: A large, gray mammal with a long trunk and tusks
+Flamingo: A tall, pink bird with long legs and a curved beak
+Grapefruit: A large, round citrus fruit with a sour taste
+Honeydew: A round, green melon with sweet, juicy flesh
+Iceberg: A type of lettuce with crisp, pale leaves
+Jellyfish: A soft-bodied sea creature with tentacles that sting
+Kiwi: A small, brown fruit with fuzzy skin and green flesh
+Lion: A large, carnivorous feline with a mane
+Mango: A tropical fruit with a sweet, juicy orange flesh and a thin pit
+Narwhal: A medium-sized Arctic whale with a long spiral tusk
+Orange: A round citrus fruit with a thick, bright orange skin and juicy flesh
+Pineapple: A tropical fruit with a spiky, brown exterior and sweet, juicy yellow flesh
+Quail: A small game bird with brown feathers and a plump body
+Raspberry: A small, red fruit with a sweet and slightly tart taste
+Strawberry: A small, red fruit with a sweet taste and green leaves on top
+Tomato: A round or oblong fruit with red or yellow skin and juicy flesh
+Umbrella: A device used to protect against rain or sun
+Vanilla: A flavoring made from the seed pods of a tropical orchid
+Watermelon: A large, juicy fruit with a green rind and pink or red flesh
+Xylophone: A musical instrument made up of wooden bars that are struck with mallets
+Yellowhammer: A small, brightly colored bird with a yellow head
+Zucchini: A type of green summer squash
